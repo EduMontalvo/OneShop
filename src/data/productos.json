@@ -1,0 +1,81 @@
+[
+  {
+    "id": "ne60",
+    "nombre": "HTC NE60",
+    "categoria": "audifonos",
+    "descripcionCorta": "Traducción con IA en 134 idiomas, en tiempo real.",
+    "descripcionLarga": "Audífonos inalámbricos con cancelación de ruido y traducción simultánea por IA. Ideales para viajes, trabajo remoto y uso diario.",
+    "destacado": true,
+    "badge": "IA · 134 idiomas",
+    "variantes": [
+      {
+        "id": "ne60-negro",
+        "color": "Negro",
+        "imagen": "/images/productos/ne60-negro.jpg",
+        "precio": 149,
+        "stock": true
+      },
+      {
+        "id": "ne60-blanco",
+        "color": "Blanco",
+        "imagen": "/images/productos/ne60-blanco.jpg",
+        "precio": 149,
+        "stock": true
+      }
+    ]
+  },
+  {
+    "id": "acer-ohr646",
+    "nombre": "Acer OHR646",
+    "categoria": "audifonos",
+    "descripcionCorta": "Cancelación de ruido activa (ANC) con 4 micrófonos, hasta 24h de batería total.",
+    "descripcionLarga": "Audífonos in-ear inalámbricos con Bluetooth 6.0, cancelación activa de ruido de hasta -28dB con sistema de 4 micrófonos, y driver de titanio de 13mm para sonido de alta fidelidad. Hasta 4h de uso continuo por carga y 24h totales con el estuche.",
+    "destacado": false,
+    "badge": "ANC · Bluetooth 6.0",
+    "variantes": [
+      {
+        "id": "acer-ohr646-negro",
+        "color": "Negro",
+        "imagen": "/images/productos/acer-ohr646-negro.jpg",
+        "precio": 89,
+        "stock": true
+      }
+    ]
+  },
+  {
+    "id": "lenovo-le209",
+    "nombre": "Lenovo LE209",
+    "categoria": "audifonos",
+    "descripcionCorta": "Bluetooth 6.0, sonido espacial 360° y hasta 35h de batería total.",
+    "descripcionLarga": "Audífonos inalámbricos con Bluetooth 6.0, cancelación de ruido dual-mic para llamadas, sonido espacial envolvente 360° y resistencia al sudor IPX4. Hasta 5-6h de uso continuo por carga y 35h totales con el estuche.",
+    "destacado": false,
+    "badge": "35h batería",
+    "variantes": [
+      {
+        "id": "lenovo-le209-negro",
+        "color": "Negro",
+        "imagen": "/images/productos/lenovo-le209-negro.jpg",
+        "precio": 79,
+        "stock": true
+      }
+    ]
+  },
+  {
+    "id": "lenovo-le208",
+    "nombre": "Lenovo LE208",
+    "categoria": "audifonos",
+    "descripcionCorta": "Diseño cuero, modo gaming 38ms de baja latencia.",
+    "descripcionLarga": "Audífonos inalámbricos con Bluetooth 6.0, cancelación de ruido ENC dual-mic para llamadas claras, modo gaming de baja latencia (38ms) y acabado con textura tipo cuero. Más de 20h de batería total con el estuche, resistencia IPX4.",
+    "destacado": false,
+    "badge": "Gaming 38ms",
+    "variantes": [
+      {
+        "id": "lenovo-le208-negro",
+        "color": "Negro",
+        "imagen": "/images/productos/lenovo-le208-negro.jpg",
+        "precio": 75,
+        "stock": true
+      }
+    ]
+  }
+]
