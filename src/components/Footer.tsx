@@ -9,9 +9,9 @@ export default function Footer() {
                 <div className="flex flex-col gap-3">
                     <div className="flex items-center gap-2">
                         <div className="w-7 h-7 bg-lima rounded-lg flex items-center justify-center text-fondo font-medium text-sm">
-                            N
+                            O
                         </div>
-                        <span className="text-lima font-medium text-lg">NovaTech</span>
+                        <span className="text-lima font-medium text-lg">OneShop</span>
                     </div>
                     <p className="text-texto-secundario text-sm leading-relaxed">
                         Elevando el estándar de los accesorios tecnológicos a instrumentos de precisión.
